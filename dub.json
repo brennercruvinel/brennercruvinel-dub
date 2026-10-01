@@ -1,0 +1,8 @@
+{
+	"name": "brennercruvinel",
+	"description": "Brenner Cruvinel namespace. Placeholder package, the real thing lands here later.",
+	"homepage": "https://github.com/brennercruvinel",
+	"authors": ["Brenner Cruvinel"],
+	"license": "MIT",
+	"targetType": "library"
+}
